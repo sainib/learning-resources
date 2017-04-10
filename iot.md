@@ -8,6 +8,14 @@
 * Protocols - http://electronicdesign.com/iot/understanding-protocols-behind-internet-things
 * OpenFMB -https://github.com/openfmb
 * http://hipi.cs.virginia.edu/
+* https://en.wikipedia.org/wiki/OSI_model
+* http://platformio.org/
+* https://www.postscapes.com/internet-of-things-protocols/
+* https://eclipse.org/paho/clients/python/
+* https://www.cooking-hacks.com/documentation/tutorials/modbus-module-shield-tutorial-for-arduino-raspberry-pi-intel-galileo/
+* http://www.modbusdriver.com/doc/mbusmaster.java/
+* https://www.automatak.com/opendnp3/
+
 
 
 
