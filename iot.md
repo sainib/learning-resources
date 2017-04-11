@@ -16,6 +16,5 @@
 * http://www.modbusdriver.com/doc/mbusmaster.java/
 * https://www.automatak.com/opendnp3/
 * https://www.youtube.com/watch?v=j2qAkWDSDkg
-
-
+* https://holisticsecurity.io/2017/03/29/my-3-ansible-roles-to-mass-provision-kismet-and-apache-minifi-for-wardriving-at-scale/
 
