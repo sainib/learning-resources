@@ -18,3 +18,9 @@
 * https://www.youtube.com/watch?v=j2qAkWDSDkg
 * https://holisticsecurity.io/2017/03/29/my-3-ansible-roles-to-mass-provision-kismet-and-apache-minifi-for-wardriving-at-scale/
 
+* http://www.dpstele.com/dnp3/tutorials.php
+
+## Local Set up / Tests
+* http://tinkerlabz.com/?topic=raspberry-pi-dnp3-master-and-remote-rtu
+* https://github.com/automatak/pifacertu
+* https://www.automatak.com/opendnp3/
