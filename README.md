@@ -1,5 +1,5 @@
 # learning-resources
 
-# IoT
-# Neural Networks
-# TextAnalytics
+* IoT
+* Neural Networks
+* TextAnalytics
